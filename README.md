@@ -1,4 +1,13 @@
-## Hi there 👋
+## What is this? 👋
+This is nickname-1725's profile page
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickname-1725)](https://github.com/anuraghazra/github-readme-stats)
+
+whose most used languages are:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickname-1725)](https://github.com/anuraghazra/github-readme-stats)
+
+have fun!
 
 <!--
 **Nickname-1725/nickname-1725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
